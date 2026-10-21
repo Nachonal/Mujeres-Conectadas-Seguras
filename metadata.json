@@ -1,0 +1,6 @@
+{
+  "name": "Mujeres Conectadas, Seguras",
+  "description": "Aplicación móvil y plataforma de gestión ágil Scrum orientada a capacitar y proteger a mujeres emprendedoras en seguridad digital, protección de datos personales y marketing digital responsable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
